@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'ini+sc+?+enc+sorry.;'gaab+janlupa+suport+gw." alt="verdibotz">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'ini+sc+enc+sorry+🗿🙏.;'gaab+janlupa+suport+gw🗿." alt="verdibotz">
 </p>
 <img src="https://telegra.ph/file/1a3eac3701775793618b3.jpg" alt="BOTCAHX SC" width="360" />
 
