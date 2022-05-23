@@ -7,7 +7,7 @@ Heroku Buildpack
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
-[![Run on Okteto](https://cloud.okteto.com/?_gl=1*t1x32o*_ga*MTk1MDU3MTAyOS4xNjUxNTE2NzM5*_ga_KSKZWJHTJZ*MTY1MzMxNjE3Ni4xMy4xLjE2NTMzMTcyOTguMA..)
+[![Run on Okteto.com](https://cloud.okteto.com/?_gl=1*t1x32o*_ga*MTk1MDU3MTAyOS4xNjUxNTE2NzM5*_ga_KSKZWJHTJZ*MTY1MzMxNjE3Ni4xMy4xLjE2NTMzMTcyOTguMA..)
 
 Ini adalah sc andalan BOTCAHX sewaktu nge bot, namun sekarang DIA PENSI TAPI SAYA VERDI MENERUSKAN SC INI 
 
