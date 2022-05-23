@@ -1,3 +1,4 @@
+AMBIL SESSION DI SINI DECK
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@zeeoneofc/SessionByZeeoneOfc?lite=1&outputonly=1#.replit)
 
 Heroku Buildpack
@@ -8,5 +9,5 @@ Heroku Buildpack
 
 
 
-Ini adalah sc andalan gua sewaktu nge bot, namun sekarang gua pensi dari bot maka dari itu kalian sekarang bebas menggunakan sc ini
+Ini adalah sc andalan BOTCAHX sewaktu nge bot, namun sekarang DIA PENSI TAPI SAYA VERDI MENERUSKAN SC INI 
 
