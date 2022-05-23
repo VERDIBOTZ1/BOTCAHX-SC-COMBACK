@@ -1,4 +1,9 @@
-
+//tanks to tim botcahx
+//my allah swt
+//orang tua
+//tio 
+//verdi
+//di hapus gw report
 gc1 = 'https://chat.whatsapp.com/DlbBRRvPR128DzqnFHlWAD'
 gc2 = ''
 gc3 = ''
