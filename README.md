@@ -1,3 +1,8 @@
+
+<img src="" alt="verdi" width="360" />
+
+</p>
+
 AMBIL SESSION DI SINI DECK
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@zeeoneofc/SessionByZeeoneOfc?lite=1&outputonly=1#.replit)
 
