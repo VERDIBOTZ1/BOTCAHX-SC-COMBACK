@@ -3,6 +3,7 @@
 //ORANG TUA SAYA
 //VERDI
 //dan rfkbot dll
+//hapus tulisan ini gw tuntut lu🗿👈
 
 gc1 = 'https://chat.whatsapp.com/DlbBRRvPR128DzqnFHlWAD'
 gc2 = 'https://chat.whatsapp.com/DlbBRRvPR128DzqnFHlWAD'
