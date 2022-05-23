@@ -53,7 +53,7 @@ global.author = 'BOTSANGEAN' // ganti aja
 
 //yyy
 bc = '' //VERDI TAMVAN BROADCAST
-footer = '\n© gw verdi
+footer = '\n© BOTCAHX'
 namabot = '𝘽𝙊𝙏𝘾𝘼𝙃𝙓'
 namalu = 'verdi_zz'
 
