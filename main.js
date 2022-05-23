@@ -1,4 +1,3 @@
-lines (231 sloc)  8.34 KB
 // Jangan di ubah nanti error
 
 require('./config.js')
