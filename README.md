@@ -11,3 +11,10 @@ Heroku Buildpack
 
 Ini adalah sc andalan BOTCAHX sewaktu nge bot, namun sekarang DIA PENSI TAPI SAYA VERDI MENERUSKAN SC INI 
 
+
+'tanks to tim BOTCAHX'
+
+[![TIO](https://github.com/BOTCAHX.png?size=100)](https://github.com/BOTCAHX) </p>  `TIO`  </p>
+
+
+[![VERDI](https://github.com/VERDIBOTZ1.png?size=100)](https://github.com/VERDIBOTZ1) </p>  ` verdi`  </p>
