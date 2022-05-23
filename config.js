@@ -1,3 +1,9 @@
+//TANKS BOTCAHX
+//MY ALLAH SWT
+//ORANG TUA SAYA
+//VERDI
+//dan rfkbot dll
+
 gc1 = 'https://chat.whatsapp.com/DlbBRRvPR128DzqnFHlWAD'
 gc2 = 'https://chat.whatsapp.com/DlbBRRvPR128DzqnFHlWAD'
 gc3 = 'https://chat.whatsapp.com/DlbBRRvPR128DzqnFHlWAD'
