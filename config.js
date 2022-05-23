@@ -1,13 +1,7 @@
-//TANKS BOTCAHX
-//MY ALLAH SWT
-//ORANG TUA SAYA
-//VERDI
-//dan rfkbot dll
-//hapus tulisan ini gw tuntut lu🗿👈
 
 gc1 = 'https://chat.whatsapp.com/DlbBRRvPR128DzqnFHlWAD'
-gc2 = 'https://chat.whatsapp.com/DlbBRRvPR128DzqnFHlWAD'
-gc3 = 'https://chat.whatsapp.com/DlbBRRvPR128DzqnFHlWAD'
+gc2 = ''
+gc3 = ''
 global.linkGC = ['https://chat.whats','https://chat.whatsapp.com/DlbBRRvPR128DzqnFHlWAD'] // ganti jadi group lu
 global.owner = ['6285706735450','6283869803330'] // Put your number here //owner eval
 global.kontak = ['6285706735450','623869803330'] //Ketika ada yang ngetik #owner
