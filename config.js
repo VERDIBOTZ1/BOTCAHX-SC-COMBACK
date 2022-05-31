@@ -8,8 +8,8 @@ gc1 = 'https://chat.whatsapp.com/DlbBRRvPR128DzqnFHlWAD'
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whats','https://chat.whatsapp.com/DlbBRRvPR128DzqnFHlWAD'] // ganti jadi group lu
-global.owner = ['6285706735450','6283869803330'] // Put your number here //owner eval
-global.kontak = ['6285706735450','623869803330'] //Ketika ada yang ngetik #owner
+global.owner = ['6285706735450','62822217926671'] // Put your number here //owner eval
+global.kontak = ['6285706735450','6282221792667'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['6285706735450','6283869803330'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -47,8 +47,8 @@ xteamkey = 'cristian9407'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Done`
-namakontak1 = ' VERDI'
-namakontak2 = 'Nomor BOT'
+namakontak1 = ' VERDI owner'
+namakontak2 = 'tio owner'
 
 //kasihcaption = `Done`
 
